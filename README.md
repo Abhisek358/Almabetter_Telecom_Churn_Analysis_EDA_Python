@@ -8,7 +8,7 @@ The problem addressed in this project is the customer churn rate in Orange Telec
 
 **Business Objective**
 
-The primary business objective of this project is twofold:
+The primary business objective of this project is two fold:
 
 -> Identify the key factors contributing to customer churn: By analyzing the customer activity data, we aim to identify patterns and correlations that indicate why customers are cancelling their subscriptions. This understanding will help Orange Telecom take proactive measures to reduce churn.
 
